@@ -1,64 +1,83 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin: 0;
-  padding: 0;
-  background: #f2f6f7;
+  background: #f9f9f9;
   color: #333;
 }
 
 header {
-  background: #00a896;
+  background-color: #6c63ff;
   color: white;
-  padding: 20px;
   text-align: center;
+  padding: 40px 20px;
 }
 
-h1, h2 {
-  margin: 0;
+h1 {
+  font-size: 2.5em;
+  margin-bottom: 0.2em;
+}
+
+h2 {
+  font-size: 1.5em;
 }
 
 .servicos, .equipe, .formulario {
-  padding: 20px;
+  padding: 40px 20px;
+  max-width: 1000px;
+  margin: auto;
 }
 
-.servico, .membro {
-  margin: 15px 0;
+.cards, .membros {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
-.servico img, .membro img {
-  max-width: 200px;
-  display: block;
-  margin-bottom: 10px;
-}
-
-.membro {
-  display: inline-block;
-  width: 30%;
+.card, .membro {
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  padding: 15px;
+  max-width: 300px;
   text-align: center;
+}
+
+.card img, .membro img {
+  width: 100%;
+  border-radius: 8px;
 }
 
 form {
   display: flex;
   flex-direction: column;
+  gap: 10px;
   max-width: 400px;
   margin: auto;
 }
 
 form input, form button {
-  margin-bottom: 10px;
-  padding: 10px;
+  padding: 12px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
 }
 
 form button {
-  background: #00a896;
+  background-color: #6c63ff;
   color: white;
   border: none;
   cursor: pointer;
+  transition: background 0.3s;
+}
+
+form button:hover {
+  background-color: #574fd6;
 }
 
 footer {
-  background: #006c67;
+  background-color: #2f2e41;
   color: white;
   text-align: center;
-  padding: 10px;
+  padding: 20px;
+  margin-top: 40px;
 }
