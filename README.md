@@ -1,27 +1,27 @@
-# Clínica VivaBem
+# Clínica Equilíbrio+
 
-Landing page estática da Clínica VivaBem, com apresentação de serviços, equipe e formulário de contato (não funcional).
+Landing page da Clínica Equilíbrio+ com foco em saúde física e emocional. Este site apresenta os serviços oferecidos, a equipe da clínica e um formulário de contato.
 
-## 🛠 Tecnologias usadas
+## ✔️ Requisitos atendidos
+
+- Nome na aba
+- 2 imagens de serviços
+- Descrição dos serviços
+- Equipe fictícia com imagens
+- 2 níveis de cabeçalho (h1, h2)
+- Formulário com nome, email, cidade e estado
+
+## 🚀 Como visualizar
+
+Você pode acessar a página localmente ou via GitHub Pages:
+
+### 🔗 GitHub Pages:
+Após configurar no GitHub, acesse:
+
+### 💻 Local:
+Baixe os arquivos e abra `index.html` em qualquer navegador.
+
+## 🛠 Tecnologias
 
 - HTML5
 - CSS3
-
-## ✅ Requisitos atendidos
-
-- [x] Título e nome da aba
-- [x] Imagens de produtos/serviços (2)
-- [x] Descrição dos produtos/serviços
-- [x] Equipe fictícia (3 membros com imagem e cargo)
-- [x] Uso de 2 níveis de cabeçalho (h1, h2)
-- [x] Formulário estático (nome, e-mail, cidade, estado)
-
-## 🚀 Como executar
-
-1. Clone o repositório ou baixe os arquivos:
-
-2. Abra o arquivo `index.html` em qualquer navegador.
-
----
-
-Feito pelo Matheus Gomes de Jesus.
