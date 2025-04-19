@@ -24,4 +24,4 @@ Landing page estática da Clínica VivaBem, com apresentação de serviços, equ
 
 ---
 
-Feito pelo Matheus Gomes de Jesus VivaBem.
+Feito pelo Matheus Gomes de Jesus.
