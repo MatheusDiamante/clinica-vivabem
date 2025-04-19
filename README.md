@@ -24,4 +24,4 @@ Landing page estática da Clínica VivaBem, com apresentação de serviços, equ
 
 ---
 
-Feito com 💚 pela equipe de tecnologia fictícia da VivaBem.
+Feito pelo Matheus Gomes de Jesus VivaBem.
