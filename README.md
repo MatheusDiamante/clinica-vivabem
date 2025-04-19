@@ -19,3 +19,9 @@ Landing page estática da Clínica VivaBem, com apresentação de serviços, equ
 ## 🚀 Como executar
 
 1. Clone o repositório ou baixe os arquivos:
+
+2. Abra o arquivo `index.html` em qualquer navegador.
+
+---
+
+Feito com 💚 pela equipe de tecnologia fictícia da VivaBem.
