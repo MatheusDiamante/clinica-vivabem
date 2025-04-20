@@ -1,8 +1,8 @@
-# Clínica Equilíbrio+
+# Clínica Viva Bem
 
-Landing page da Clínica Equilíbrio+ com foco em saúde física e emocional. Este site apresenta os serviços oferecidos, a equipe da clínica e um formulário de contato.
+Landing page da Clínica Viva Bem com foco em saúde física e emocional. Este site apresenta os serviços oferecidos, a equipe da clínica e um formulário de contato.
 
-## ✔️ Requisitos atendidos
+## Requisitos atendidos
 
 - Nome na aba
 - 2 imagens de serviços
@@ -11,17 +11,17 @@ Landing page da Clínica Equilíbrio+ com foco em saúde física e emocional. Es
 - 2 níveis de cabeçalho (h1, h2)
 - Formulário com nome, email, cidade e estado
 
-## 🚀 Como visualizar
+## Como visualizar
 
 Você pode acessar a página localmente ou via GitHub Pages:
 
-### 🔗 GitHub Pages:
+### GitHub Pages:
 Após configurar no GitHub, acesse:
 
-### 💻 Local:
+### Local:
 Baixe os arquivos e abra `index.html` em qualquer navegador.
 
-## 🛠 Tecnologias
+## Tecnologias
 
 - HTML5
 - CSS3
